@@ -1,4 +1,4 @@
-# React Template
+# Simple Counter by Alfredo Raúl Centeno
 
 > For more information regarding the functioning of this template, please, visit:
 
@@ -19,3 +19,5 @@
     - https://kit.fontawesome.com/7512d3f222.css
 
 > Just run `npm install`... and enjoy!
+
+## Coming soon... the proper documentation 😅
